@@ -15,10 +15,4 @@
     { "id": "3852567573", "name": "some name 4", "lastName": "some lastName4", "phone": "3852567573", "status": "some status4", "frequency": "some frequency4" },
     { "id": "1134599553", "name": "some name 5", "lastName": "some lastName5", "phone": "1134599553", "status": "some status5", "frequency": "some frequency5" }
   ]
-  
-  
-  {
-    "name": "typicode"
-  }
-
 }

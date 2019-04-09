@@ -8,13 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "patients": [
-    { "id": "3334567891", "name": "some name 1", "lastName": "some lastName1", "phone": "3334567891", "status": "some status1", "frequency": "some frequency1" },
-    { "id": "3334567553", "name": "some name 2", "lastName": "some lastName2", "phone": "3334567553", "status": "some status2", "frequency": "some frequency2" },
-    { "id": "1234567891", "name": "some name 3", "lastName": "some lastName3", "phone": "1234567891", "status": "some status3", "frequency": "some frequency3" },
-    { "id": "3852567573", "name": "some name 4", "lastName": "some lastName4", "phone": "3852567573", "status": "some status4", "frequency": "some frequency4" },
-    { "id": "1134599553", "name": "some name 5", "lastName": "some lastName5", "phone": "1134599553", "status": "some status5", "frequency": "some frequency5" }
-  ],
   "profile": {
     "name": "typicode"
   }
